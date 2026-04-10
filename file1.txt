@@ -1,4 +1,6 @@
 I am learning how to use github and I am adding this file to the
 repository
 
-i am adding this edit to cause a merge conflict !!!
+
+
+i have resolved the conflict
